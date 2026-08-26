@@ -1,4 +1,4 @@
-# KaushalSetu — कौशल सेतु
+# KaushalSetu 
 
 A minimal, presentation-ready web app for a **government skilling ecosystem** to track learner outcomes over time — in a **consent-first, privacy-conscious, low-effort** way.
 
